@@ -5,6 +5,7 @@ FiveM Laundromat MLO
 
 # [Video preview](https://youtu.be/0Zdj6wwoxuA)
 
+## Coords: 896.930, -1032.223, 34.966, 164.672
 
 # Contents:
 
