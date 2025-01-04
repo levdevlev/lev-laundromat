@@ -1,7 +1,7 @@
 # lev-laundromat
 FiveM Laundromat MLO
 
-![image](https://github.com/user-attachments/assets/70347093-076a-40ac-96b3-2dfc2e083dd6)
+![laundromat](https://github.com/user-attachments/assets/8fd38d91-d409-4cdf-aa64-87f582a157ee)
 
 # [Video preview](https://youtu.be/0Zdj6wwoxuA)
 
